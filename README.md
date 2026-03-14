@@ -8,18 +8,6 @@ Department of Electronic & Telecommunication Engineering
 University of Moratuwa
 ---
 
-## 👩‍💻 My Key Contribution
-
-My primary contributions to this project were focused on **hardware implementation and circuit realization**, specifically:
-
-* 🔹 **PCB schematic and layout design** using **Altium**
-* 🔹 **Circuit design of the output indication stage**, particularly the **comparator-based tuning indicator**
-* 🔹 **Implementation of the PCB hardware prototype**
-* 🔹 Participation in **breadboard testing, debugging, and system integration**
-
-The comparator stage designed in this project enables **clear visual feedback (LED indication)** that informs the user whether the guitar string is **under-tuned, over-tuned, or perfectly tuned**.
-
----
 
 # 📌 Project Overview
 
@@ -212,11 +200,6 @@ The system was implemented on a **custom PCB designed in Altium**.
 * Clear signal routing for analog stages
 * Stable power distribution
 
-📌 **My Role**
-
-* Designed the **schematic and PCB layout**
-* Organized analog stages for **minimal interference**
-* Assisted with **PCB assembly and debugging**
 
 ---
 
@@ -250,9 +233,42 @@ A demonstration of the working tuner can be viewed below:
 | Abeywardhana T.C.W. | 230012U |
 | Perera K.W.A.O.V.   | 230481E |
 
+
 ---
 
+## 👥 Team Contributions
 
+### **Gunathunga U.A. — 230218G**
+
+* PCB schematic and layout design using **Altium**
+* Circuit design for **comparator-based output indication**
+* Breadboard testing, PCB debugging, and system assembly
+
+
+### **Palihena H.H. — 230458P**
+
+* **State Variable Filter** design and LTspice simulations
+* Initial passive filter design exploration
+* Breadboard implementation and functional testing
+
+
+### **Abeywardhana T.C.W. — 230012U**
+
+* **Microphone input circuit** and analog amplifier design
+* **3D enclosure design** using Fusion
+* PCB soldering and hardware assembly
+
+
+### **Perera K.W.A.O.V. — 230481E**
+
+* Circuit design for **Schmitt Trigger**, **Frequency-to-Voltage Converter**, and **Buffer**
+* Design of **reference voltage potential dividers**
+* Initial enclosure concept sketch
+* Breadboard testing 
+
+
+
+---
 
 ✔ **Repository Contents**
 
