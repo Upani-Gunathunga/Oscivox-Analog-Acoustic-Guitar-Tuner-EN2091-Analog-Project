@@ -199,6 +199,8 @@ The system was implemented on a **custom PCB designed in Altium**.
 * Reduced noise coupling
 * Clear signal routing for analog stages
 * Stable power distribution
+  
+  ![Oscivox PCB](PCB_Design/Oscivox_PCB.png)
 
 
 ---
@@ -213,6 +215,8 @@ The device enclosure was designed using **Autodesk Fusion**.
 * Easy access to the tuning dial
 * Proper positioning of the **microphone near guitar strings**
 * Protection of internal circuitry
+  
+![Oscivox Enclosure Design](Oscivox_3D_Design/Oscivox_EnclosureDesign.png)
 
 ---
 
