@@ -1,0 +1,2 @@
+# Oscivox-Analog-Acoustic-Guitar-Tuner-EN2091-Analog-Project
+The Analog Acoustic Guitar Tuner is a fully analog signal-processing system that detects the frequency of a plucked guitar string and visually indicates whether the string is tuned correctly.  Unlike digital tuners, this device performs all signal processing using analog circuits, including filtering, frequency detection, and voltage comparison.
